@@ -28,4 +28,4 @@ https://github.com/Ste452/Leveling_Python/assets/123308294/1e37bb4e-f018-4569-9c
 
 <br>
 
-[Project of the video game above](https://github.com/Ste452/Leveling_python/42_section_PyGame_Getting_Started/)
+[Project of the video game above](https://github.com/Ste452/Leveling_Python/tree/main/42_section_PyGame_Getting_Started/)
